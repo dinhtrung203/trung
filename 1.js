@@ -48,7 +48,7 @@ loginForm.addEventListener('submit', function(event) {
   localStorage.setItem('password', password);
 
   // Chuyển người dùng đến trang đích
-  window.location.href = 'file:///D:/TKW/cv/cvv.html';
+  window.location.href = 'cvv.html';
 });
 
 //xử lý đăng ký
