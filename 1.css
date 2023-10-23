@@ -16,7 +16,7 @@ input {
     position: relative;
     width: 100%;
     background-color: #fff; /* Màu nền */
-    background-image: url('1.jpg'); /* Hình nền */
+    background-image: url('"1.jpg"); /* Hình nền */
     background-size: cover; /* Điều chỉnh kích thước nền */
     background-repeat: no-repeat; /* Ngăn lặp nền */
     min-height: 100vh;
